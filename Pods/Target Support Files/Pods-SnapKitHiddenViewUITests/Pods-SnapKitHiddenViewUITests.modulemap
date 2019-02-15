@@ -1,0 +1,6 @@
+framework module Pods_SnapKitHiddenViewUITests {
+  umbrella header "Pods-SnapKitHiddenViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
